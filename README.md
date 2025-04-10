@@ -1,6 +1,7 @@
 # Linux Trojan Behavior Demonstration via System Monitoring & C2 Communication
 
 **Project Overview:**
+
 This project is a resource monitoring system developed in Python, designed to operate on Linux systems. It incorporates a Trojan horse component for educational purposes.
 
 **Components:**
